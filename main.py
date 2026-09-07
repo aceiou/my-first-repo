@@ -7,3 +7,7 @@ def add(a, b):
     return a + b
 
 print(f"Adding {1} and {4} = {add(1, 4)}")
+
+"""Hello, World! Hello, Philippines!
+    Adding docstring here...
+"""
